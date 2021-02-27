@@ -9,4 +9,4 @@
 - Адаптивная вёрстка (смартфоны, планшеты, настольные ПК)
 - Desktop First
 
-[Демо онлайн](https://evgeniy-web-dev.github.io/portfolio/)
+[Смотреть проект онлайн](https://evgeniy-web-dev.github.io/portfolio/)
